@@ -2,7 +2,7 @@ import './App.css'
 import MainDash from './components/MainDash/MainDash';
 import Sidebar from './components/Sldebar/Sidebar';
 import RightSide from './components/RightSide/RightSide';
-import { Component } from 'react';
+
 
 function App() {
   return (
